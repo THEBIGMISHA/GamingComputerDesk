@@ -1,1 +1,5 @@
-.FCStd1
+# ignore FreeCAD Backup files
+*.FCStd1
+
+
+
